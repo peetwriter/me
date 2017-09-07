@@ -68,8 +68,8 @@ export default () => (
             />
             <ExperienceItem
               date={'May 2012 – September 2013'}
-              company={'RWTH Aachen University'}
-              title={'HIWI - Student Assistant'}
+              company={'Softheme'}
+              title={'.Net Developer'}
               project={'Wonga'}
               projectUrl={'https://www.wonga.com/'}
               description={'Remote loan system.'}
