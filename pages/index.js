@@ -31,7 +31,7 @@ export default () => (
       </a>
       <a
         className="link"
-        href="https://www.facebook.com/petr.tarasenko.1"
+        href="https://www.github.com/peetwriter"
       >
         Github
       </a>
