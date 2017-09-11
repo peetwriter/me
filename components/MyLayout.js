@@ -8,6 +8,7 @@ const Layout = (props) => (
       <meta name="title" content="Tarasenko Petro, Full stack web developer"/>
       <meta name="description" content="Tarasenko Petro, Full stack web developer"/>
       <meta name="keywords" content="Tarasenko, Тарасенко, Тарасенко Петро, Javascript, React, Full stack, web developer"/>
+      <meta name="google-site-verification" content="dsZjSYVxxdaLnD8rhZflboiCknWiZRCvRLwbv8aJ1l0" />
 
       <meta property="og:type" content="other"/>
       <meta property="og:title" content="Tarasenko Petro"/>
